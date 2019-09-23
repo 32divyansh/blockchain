@@ -1,1 +1,3 @@
-# blockchain
+This is a simple game of tic tac toe which i have made in our inspark project.
+ENJOY PLAYING.........
+
